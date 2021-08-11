@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://satis.farmjournal.com/sitemap.xml
